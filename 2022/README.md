@@ -6,3 +6,4 @@
 - ``day 4``: 2 stars
 - ``day 5``: 2 stars
 - ``day 6``: 2 stars
+- ``day 7``: 2 stars
